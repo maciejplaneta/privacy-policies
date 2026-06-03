@@ -9,5 +9,5 @@
 - copy generated content into new ```index.html``` file in newly created directory
 - commit, push & wait for github pages to host it
 - copy URL: ```https://maciejplaneta.github.io/privacy-policies/<your_directory_name>``` into your app
-- email for contact/support - :mp.app.support+<app_slug>@gmail.com
+- email for contact/support - mp.app.support+<app_slug>@gmail.com
 - done
